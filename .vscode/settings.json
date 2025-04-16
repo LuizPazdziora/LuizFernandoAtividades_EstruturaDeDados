@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "AtividadeII/06-lista-dupla-main.jar",
+        "AtividadeII/ListaDuplaII.jar"
+    ]
+}
